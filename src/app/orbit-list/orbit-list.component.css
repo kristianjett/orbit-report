@@ -16,7 +16,11 @@ table {
   background: #dad8d8;
 }
 
-.header-row {
+tr:nth-child(odd) {
+    background-color: #afb0c4;
+}
+
+#head-row {
     background: #1a4c6d;
     color: #fff;
 }
